@@ -127,6 +127,7 @@ If you make use of the `KnowTox_manuscript_SI` notebook, please cite:
         Landsiedel Robert, 
         Volkamer Andrea},
     title = {KnowTox: Pipeline and Case Study for Confident Prediction of Potential Tox Effects of Compounds in Early Phases of Development},
-    journal = {submitted}
+    year = {2020},
+    journal = {Journal of Cheminformatic}
 }
 ```
